@@ -1,0 +1,19 @@
+body {
+    background-color: #006241; color: blanchedalmond; align-content: center; font-family: Arial, Helvetica, sans-serif; font-size: xx-large;
+}
+#about {
+    font-style: italic; font-weight: 500; 
+}
+div {
+    background-color: blanchedalmond; color: black; box-sizing: border-box 500px; font-size: larger; font-weight: 600;
+}
+
+h1 {
+    font-size: 75px; 
+}
+h3 {
+    
+}
+em {
+    font-weight: 400; 
+}
